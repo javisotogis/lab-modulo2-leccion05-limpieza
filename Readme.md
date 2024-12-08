@@ -1,14 +1,14 @@
-# Netflix Peliculas
+# Netflix Peliculas - Limpieza de datos
 
-Este proyecto es un repaso de los conceptos de filtrado usando pandas y el dataframe de Netflix de la leccion anterior. En este repaso, se explora el filtrado por columnas, el filtrado en base a cadenas de string y el filtrado en base a multiple valores, tanto numericos como categoricos.
+Este proyecto es un repaso de los conceptos de la limpieza de datos usando pandas y el dataframe de Netflix de la leccion anterior. En este repaso, se explora el metodo apply y las funciones lambda.
 
 ## Estructura de los archivos
 
 - Los archivos se distribuyen en dos carpetas:
   - **datos originales**: Contiene los datasets originales en formato CSV.
   - **resultados**: Incluye:
-    - Un Jupyter Notebook llamado `laboratorio-modulo2-leccion03-filtrado.ipynb`.
-    - El archivo de salida después de haber juntado ambos CSV originales, llamado `netflix.csv`.
+    - Un Jupyter Notebook llamado `laboratorio-modulo2-leccion05-limpieza.ipynb`.
+    - El archivo de salida después de haber comletado los distintos puntos, llamado `Javi_Netflix.pkl.pkl`.
 
 ## Requisitos
 
